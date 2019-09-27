@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/itextpdf-5.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/barcodes-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/barcodes-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/barcodes-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/bcmail-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="D:/bcmail-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="D:/bcprov-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="D:/bcprov-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="D:/bctsp-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="D:/bctsp-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="D:/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/font-asian-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/forms-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/forms-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/forms-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/hyph-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/io-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/io-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/io-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/itext-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="lib" path="D:/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="D:/pdfa-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/pdfa-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/pdfa-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/pdf-renderer-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/pdftest-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/pdftest-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/sign-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sign-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/sign-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/simple.jar"/>
+	<classpathentry kind="lib" path="D:/styled-xml-parser-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/styled-xml-parser-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/styled-xml-parser-7.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/svg-7.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/svg-7.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/svg-7.1.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
